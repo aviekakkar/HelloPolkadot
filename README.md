@@ -2,4 +2,4 @@
 
 1. [[BEGINNER CHALLENGE] Deploying Solidity Contract on Plasm Network V1](https://github.com/aviekakkar/solidity-on-plasmnetwork-polkadot)
 
-2. [[BEGINNER CHALLENGES] Back-End Javascript] (https://github.com/aviekakkar/backend-js)
+2. [[BEGINNER CHALLENGES] Back-End Javascript](https://github.com/aviekakkar/backend-js)
