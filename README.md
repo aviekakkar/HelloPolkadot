@@ -7,3 +7,5 @@
 3. [[BEGINNER CHALLENGES] Front-End Javascript](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/14/100023940)
 
 4. [[BEGINNER CHALLENGES] Run-A-Kusama-Or-Polkadot-Node-And-Add-It-To-Telemetry](https://github.com/aviekakkar/Run-A-Kusama-Or-Polkadot-Node-And-Add-It-To-Telemetry)
+
+5. [[BEGINNER CHALLENGES] Play with Westend](https://github.com/aviekakkar/Play-with-Westend)
