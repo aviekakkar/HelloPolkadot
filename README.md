@@ -10,4 +10,7 @@
 
 5. [[BEGINNER CHALLENGES] Play with Westend](https://github.com/aviekakkar/Play-with-Westend)
 
-6. [[BEGINNER CHALLENGE] Launch a local Substrate development chain](https://github.com/aviekakkar/private-substrate-network)
+6. [[BEGINNER CHALLENGE] Launch a local Substrate development chain](https://github.com/aviekakkar/local-substrate-dev-chain)
+
+7. [[BEGINNER CHALLENGE] Run a private Substrate network](https://github.com/aviekakkar/private-substrate-network)
+
