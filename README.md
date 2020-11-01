@@ -14,3 +14,5 @@
 
 7. [[BEGINNER CHALLENGE] Run a private Substrate network](https://github.com/aviekakkar/private-substrate-network)
 
+8. [[BEGINNER CHALLENGE] Set An Identity On Kusama Or Polkadot's Development Version](https://github.com/aviekakkar/identity-on-dev-kusama)
+
