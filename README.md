@@ -16,3 +16,7 @@
 
 8. [[BEGINNER CHALLENGE] Set An Identity On Kusama Or Polkadot's Development Version](https://github.com/aviekakkar/identity-on-dev-kusama)
 
+9. [[INTERMEDIATE CHALLENGE] FRAME Identity: Set an identity on a local --dev chain] (https://github.com/aviekakkar/FRAME-identity)
+
+
+
