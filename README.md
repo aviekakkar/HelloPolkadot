@@ -18,5 +18,7 @@
 
 9. [[INTERMEDIATE CHALLENGE] FRAME Identity: Set an identity on a local --dev chain] (https://github.com/aviekakkar/FRAME-identity)
 
+10. [[Ink]]
 
+11.[[ECOSYSTEM CHALLENGE] Deploy On Moonbase Alpha Using Truffle](https://github.com/aviekakkar/deploy-on-moonbase)
 
